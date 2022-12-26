@@ -211,7 +211,7 @@ public class Vocabulary extends AppCompatActivity implements CategoryItemClick{
     public void onClick(View view, int position) {
 
        // Toast.makeText(this, ""+position, Toast.LENGTH_SHORT).show();
-
+        //git test
         int pos = position+1;
 
 
